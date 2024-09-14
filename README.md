@@ -20,7 +20,11 @@ This project was created on Code.org's JavaLab platform using the built in Neigh
 
 ## Output:
 
-< Put sketch / Final image here >
+### Final 
+![finaldraft](final.png)
+
+### Draft
+![draft](draft.jpg)
 
 ## Reflection
 
